@@ -37,14 +37,14 @@ The Collaborative Whiteboard App is a real-time drawing tool that allows users t
 
 **Frontend Setup**
 1. Clone the repository:
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/YadnyeshUbhad/Collaborative-Whiteboard-App.git)>
    cd collaborative-whiteboard
  
 2. Open `index.html` in a web browser to start using the whiteboard app.
 
 **Backend Setup **
 1. Clone the repository:
-      git clone <repository-url>
+      git clone <[repository-url](https://github.com/YadnyeshUbhad/Collaborative-Whiteboard-App.git)>
    cd collaborative-whiteboard-backend
    
 2. Install Node.js dependencies:
