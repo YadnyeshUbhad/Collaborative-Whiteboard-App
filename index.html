@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collaborative Whiteboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <div id="toolbar">
+            <button id="pen-tool" title="Pen">✏️</button>
+            <button id="eraser-tool" title="Eraser">🩹</button>
+            <input type="color" id="color-picker" title="Choose Color" />
+            <input type="range" id="thickness-slider" min="1" max="20" value="2" title="Pen Thickness" />
+            <button id="text-tool" title="Text">🔤</button>
+            <button id="clear-canvas" title="Clear Canvas">🗑️</button>
+            <button id="undo" title="Undo">↩️</button>
+            <button id="redo" title="Redo">↪️</button>
+            <button id="save-drawing" title="Save">💾</button>
+        </div>
+        <canvas id="drawing-canvas"></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
