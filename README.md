@@ -4,12 +4,19 @@
 The **Collaborative Whiteboard App** is a real-time drawing application that enables multiple users to **collaborate**, **draw**, **add text**, and **share ideas** seamlessly over the web. The app is built using modern web technologies and **WebSockets** to ensure smooth real-time interaction.
 
 ## Features
+
 ✅ **Real-Time Collaboration** – Multiple users can draw simultaneously on the same canvas.
+
 ✅ **Drawing Tools** – Includes a **pen, eraser, color picker, and text tool**.
+
 ✅ **Undo & Redo** – Easily revert or reapply actions.
+
 ✅ **Clear Canvas** – Wipe the entire board to start fresh.
+
 ✅ **User-Friendly UI** – Minimalistic, intuitive interface for easy usage.
+
 ✅ **Responsive Design** – Works across different screen sizes and devices.
+
 ✅ **Secure & Private** – Only authorized users can join a session (if authentication is enabled).
 
 ## Technologies Used
